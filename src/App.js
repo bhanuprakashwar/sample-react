@@ -7,7 +7,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {};
-
+ 
   }
   render() {
     const list1 = "Enter the form field and hit the 'Add Me' button to store the record the MongoDB";
